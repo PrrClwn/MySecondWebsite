@@ -1,2 +1,0 @@
-# MySecondWebsite
-cats &amp; stuff
